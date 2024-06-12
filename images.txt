@@ -1,4 +1,16 @@
 nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+tomcat
+wordpress:latest
+jenkins/jenkins:lts
+redis:latest
+mysql
+registry
+python:3.7-alpine
+ubuntu:18.04
+mysql:8.0.31
+portainer/portainer
+php:7.4-fpm
+openjdk:8
+centos:7.9.2009
+dperson/samba
+hyper/docker-registry-web
