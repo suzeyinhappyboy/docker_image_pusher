@@ -14,3 +14,5 @@ openjdk:8
 centos:7.9.2009
 dperson/samba
 hyper/docker-registry-web
+openjdk:17
+jenkins/jenkins:lts
